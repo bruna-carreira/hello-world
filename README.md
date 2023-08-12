@@ -1,3 +1,3 @@
 # hello-world
 ap C.S task
-bruna Carreira
+bruna Germinari Carreira
